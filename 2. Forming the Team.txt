@@ -57,5 +57,89 @@ Ordered list by priority of work that needs to be done for the product.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* What the scrum master is and isn't
+------------------------------------
+
+* Scrum Master Responsibilities
+-------------------------------
+- Manage the agile framework
+
+- Administer the project
+
+- Create reports
+
+- Eliminate obstacles
+
+- Remove distractions
+
+
+* Scrum Master Duties
+---------------------
+- Facilitate, not manage
+
+- Don't communicate management authority
+
+- Record estimates and progress with charts
+
+- Remove obstacles for the team
+
+
+* Example Obstacles
+-------------------
+- Equipment arriving late
+
+- Disruptive behavior
+
+- Loud workspace
+
+- Customer access
+
+- Missing pizza
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

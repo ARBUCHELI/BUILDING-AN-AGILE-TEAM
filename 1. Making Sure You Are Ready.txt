@@ -68,6 +68,70 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Getting management agreement
+------------------------------
+. You need to convince two groups of stakeholders:
+	- Executie Sponsors
+	- Development Managers
+
+
+* Executive Sponsor Desires
+---------------------------
+. Predictability
+
+. Delivery
+
+			FOR AN EXECUTIVE YOU'LL WANT TO DESCRIBE AGILE AS A REGIMENTED AND PREDICTABLE DELIVERY FRAMEWORK.
+
+			FOR THEM, EQUATE AGILITY WITH PREDICTABILITY AND DELIVERY.
+
+
+
+* Development Manager Desires
+-----------------------------
+. Clearly defined tasks
+			 -------> IN TWO WEEKS CHUNKS
+. Feedback 
+
+
+			FOR THEM BE SURE TO TALK ABOUT AGILE AS A WAY TO DEFINE THEIR TASKS AND REGULATE THEIR WORK.
+
+
+* Agile Methods
+---------------
+Driving processes of project work.
+
+			D O N ' T    O V E R S E L L    A N    A G I L E    T R A N S F O R M A T I O N
+
+				IF YOU DO IT, THE EXECUTIVE WILL BE SOON ASKING FOR RESULTS
+
+			CLEARY EXPLAIN WHAT WILL NO LONGER HAPPEN
+
+
+			AGILE DOES NOT PRODUCE
+			----------------------
+			- Gantt charts
+
+			- Project reports
+
+			- Budgets tied to milestones
+
+
+			THE BEST WAY AT THIS STAGE IS TO END THE PRESENTATION RECOMMENDING THAT THE EXECUTIVE SPONSOR FOUND A SMALL TEAM FOR THE AGILE PILOT.
+
+			IDEALLY, THE PROJECT SHOULD HAVE FEW INTERDEPENDENCIES WITH OTHER PROJECTS.
+
+			IT'S ALSO MUCH BETTER TO GO SMALL THAN LARGE.
+
+			TRY TO KEEP THE TEAM TO FEWER THAN SEVEN PEOPLE
+
+			WORK HARD TO CAREFULLY SET EXPECTATIONS AND PREPARE THE EXECUTIVES FOR A LONG TRANSFORMATION PROCESS.  PREPARE EVERYBODY TO PACK FOR A LONG TRIP.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 

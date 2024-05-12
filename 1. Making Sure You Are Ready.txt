@@ -1,0 +1,102 @@
+	# 1. MAKING SURE YOU ARE READY
+------------------------------
+
+* Why agile exists
+------------------
+		LIGHTWEIGHT SOFTWARE DEVELOPMENT
+		--------------------------------
+			. Scrum
+			. Extreme Programming
+			. Adaptive Software Development
+			. Feature-driven development
+			. Dynamic systems development method
+			. Crystal clear
+
+		AGILE ALLIANCE
+		--------------
+			. Adaptive
+			. Quick
+			. Flexible
+
+		AGILE MANIFESTO
+		---------------
+		" WE ARE UNCOVERING BETTER WAYS OF DEVELOPING SOFTWARE BY DOING IT AND HELPING OTHERS DO IT. "
+		
+		
+			AGILE					NOT AGILE
+			-----					---------
+			. Individuals and interactions		. Processes and tools
+			. Working Software			. Comprehensive documentation
+			. Customer collaboration		. Contract negotiation
+			. Responding to change 			. Following a plan
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Establishing why agile is needed
+----------------------------------
+			AGILE IS PARTICULARLY DIFFICULT TO START IN AN ORGANIZATION.
+		
+			THERE IS A LONG RAMP-UP PERIOD.
+
+			IT REQUIRES PEOPLE TO THINK DIFFERENTLY, AND THERE'S AN UNCLEAR TIMEFRAME.
+
+			IT'S A NEVER ENDING PROCESS IMPROVEMENT.
+
+			ESTABLISH WHY YOU NEED TO CHANGE
+			--------------------------------
+				. Don't start by promising immediate results.  That type of expectation is almost sure to fizzle.
+
+				. Instead, start by listing the challenges you have with your current process.  --> People will see why they need to change.
+
+			
+			* Example Challenges
+			--------------------
+				. Poor requirements
+
+				. Manager compensates at end of project
+
+				. Unrealistic deadlines
+
+				. Changing priorities mid-project
+
+				. Poor stakeholder communication
+
+				. Lack of quality assurance
+
+				. Multitasking project manager
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

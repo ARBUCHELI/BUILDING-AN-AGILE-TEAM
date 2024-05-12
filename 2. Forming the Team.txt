@@ -1,0 +1,61 @@
+# 2. FORMING THE TEAM
+---------------------
+
+* Defining the agile team roles
+-------------------------------
+
+* Cross-functional Team
+-----------------------
+Group of roles from across different organizational functions that work together instead of with like roles.
+
+
+			* PRODUCT OWNER
+
+			* DEVELOPER
+
+			* SCRUM MASTER
+
+* SCRUM MASTER -------> * RESTRAINT -------> DON'T TRY TO MANAGE THE TEAM
+--------------
+. Agile administrator
+
+. Coach
+
+. Trainer
+
+
+* Primary Scrum Master Job
+--------------------------
+Serve the team by removing obstacles.
+
+
+* PRODUCT OWNER ROLE
+--------------------
+. Communicate with the customer
+
+. Represent customer needs
+
+. Determine work priorities for the team
+
+
+
+* Product Backlog
+-----------------
+Ordered list by priority of work that needs to be done for the product.
+
+
+* DEVELOPERS
+------------
+. Software coders
+
+. Software testers
+
+. Graphic designers
+
+. Database specialists
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
